@@ -624,7 +624,7 @@ body :focus {
 .returnedValue {
 	font-size: 10px;
 }
-#product_id_return, #farmer_id_return  {
+#product_id_return, #farmer_id_return, #product_number_return, #get_product_id_return  {
 	width: 100%;
 	line-height: 55px;
 	font-size: 18px;
